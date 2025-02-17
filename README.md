@@ -38,9 +38,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 
 <br />
- When determining the Assignment, the system uses a process of assigning a support ticket to a specific team member or department who will handle it. When a ticket is created, the system can automatically or manually assign it to a staff member based on factors like ticket type, urgency, or available staff. Assigning tickets helps ensure that the right person is working on the right issue, making the support process more organized and efficient.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ When determining the Assignment, the system uses a process of assigning a support ticket to a specific team member or department who will handle it. When a ticket is created, the system can automatically or manually assign it to a staff member based on factors like ticket type, urgency, or available staff. Assigning tickets helps ensure that the right person is working on the right issue, making the support process more organized and efficient. In the picture below, the SLA has not been assigned yet but the issue summary helps determine which depatment should handle the ticket inquery.
+
+ ![image](https://github.com/user-attachments/assets/77b67e53-818e-4c39-b230-532603ff3012)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
