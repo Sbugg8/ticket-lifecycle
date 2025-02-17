@@ -31,14 +31,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>In osTicket, Intake refers to the process of collecting information from a user when they first submit a support ticket. It's essentially the first step where users provide details about their issue, which will help the support team understand the problem and prioritize the ticket.
 
-  
-![image](https://github.com/user-attachments/assets/7a7f855d-3bb9-41be-a777-6a064ad285a5)
+![image](https://github.com/user-attachments/assets/26c47e51-674b-4cdd-adad-6228ec9662c2)
+
 
 </p>
 <p>
 
 <br />
-
+ When determining the Assignment, the system uses a process of assigning a support ticket to a specific team member or department who will handle it. When a ticket is created, the system can automatically or manually assign it to a staff member based on factors like ticket type, urgency, or available staff. Assigning tickets helps ensure that the right person is working on the right issue, making the support process more organized and efficient.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
